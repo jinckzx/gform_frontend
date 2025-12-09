@@ -38,17 +38,17 @@ const Index = () => {
       <div className="relative z-20 min-h-screen flex flex-col items-center justify-center py-12">
         <header className="text-center mb-8">
           <h1 className="font-display text-4xl md:text-6xl font-bold text-foreground mb-2">
-            🌻 Form Filler Magic 🌻
+             Google Form Filler 
           </h1>
           <p className="text-muted-foreground font-body text-lg md:text-xl">
-            Made with love for Anmol
+            Made with love for sweetest Diya 
           </p>
         </header>
 
         <FormFiller />
 
         <footer className="mt-12 text-center text-muted-foreground font-body text-sm">
-          <p>✨ Powered by sunflowers and good vibes ✨</p>
+          <p>chal be this application usually sells around 350$ lol :p </p>
         </footer>
       </div>
     </main>

@@ -76,7 +76,7 @@ const FormFiller = () => {
       if (data.status === "success") {
         toast({
           title: "Yay! Form Filled! 🎉",
-          description: "Anmol worked his magic successfully!",
+          description: "Form filled successfully. Check the response below.",
         });
       } else {
         toast({
@@ -102,12 +102,12 @@ const FormFiller = () => {
       <Card className="border-2 border-border bg-card/90 backdrop-blur-md shadow-card">
         <CardHeader className="text-center pb-2">
           <CardTitle className="font-display text-3xl md:text-4xl text-foreground flex items-center justify-center gap-3">
-            <Sparkles className="w-8 h-8 text-primary" />
-            Anmol's Form Filler
+            
+            Diya's Form Filler
             <Heart className="w-8 h-8 text-secondary animate-pulse" />
           </CardTitle>
           <p className="text-muted-foreground font-body mt-2">
-            Paste your Google Form URL and let the magic happen ✨
+            Paste your Google Form URL
           </p>
         </CardHeader>
         <CardContent className="space-y-6 pt-4">
