@@ -11,7 +11,7 @@ const BUTTON_TEXTS = [
   "Fill me up daddy Anmol 🔥"
 ];
 
-const API_URL = import.meta.env.VITE_API_URL || "https://gform-3zkm.onrender.com/fill-form/";
+const API_URL = import.meta.env.VITE_API_URL|| "https://gform-3zkm.onrender.com/fill-form/";
 
 interface FormResponse {
   status: string;
