@@ -7,8 +7,8 @@ import ResponseDisplay from "./ResponseDisplay";
 import { Heart, Sparkles, Loader2 } from "lucide-react";
 
 const BUTTON_TEXTS = [
-  "I love you Anmol 💕",
-  "Fill me up daddy Anmol 🔥"
+  "I love you Anmol",
+  "Fill me up daddy Anmol"
 ];
 
 const API_URL = import.meta.env.VITE_API_URL|| "https://gform-3zkm.onrender.com/fill-form/";

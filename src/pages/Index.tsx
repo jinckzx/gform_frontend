@@ -48,7 +48,7 @@ const Index = () => {
         <FormFiller />
 
         <footer className="mt-12 text-center text-muted-foreground font-body text-sm">
-          <p>chal be this application usually sells around 350$ lol :p </p>
+          <p> This is a fun project for my sweet baby girl help her with research :p </p>
         </footer>
       </div>
     </main>
